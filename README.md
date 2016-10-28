@@ -4,7 +4,7 @@ A warm and summery theme inspired by the beach.
 
 ## Screenshot
 
-![Summertime theme](http://imgur.com/bYN3rme)
+![Summertime Theme](http://i.imgur.com/bYN3rme.png)
 
 ## Download
 

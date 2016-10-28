@@ -1,5 +1,15 @@
-# summertime-syntax theme
+# Summertime syntax theme
 
-A short description of your theme.
+A warm and summery theme inspired by the beach.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## Screenshot
+
+![Summertime theme](http://imgur.com/bYN3rme)
+
+## Download
+
+Search for `summertime-syntax` in Settings > Install > Themes. Or install it directly using the command:
+
+```shell
+apm install summertime-syntax
+```

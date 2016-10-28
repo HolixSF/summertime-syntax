@@ -2,12 +2,12 @@
   "name": "summertime-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A nice, warm, summery theme for Atom.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/summertime-syntax",
+  "repository": "https://github.com/HolixSF/summertime-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
